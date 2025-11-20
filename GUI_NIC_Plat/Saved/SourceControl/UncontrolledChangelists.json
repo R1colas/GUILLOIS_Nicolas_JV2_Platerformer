@@ -5,6 +5,12 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/MonDossier/GUILLOIS_Nicolas_JV2_Platerformer/GUI_NIC_Plat/Content/Trash/BP_Explosion.uasset",
+				"D:/MonDossier/GUILLOIS_Nicolas_JV2_Platerformer/GUI_NIC_Plat/Content/__ExternalActors__/Level/Lvl_ThirdPerson/C/5U/HE6CP98Z7D98C3AAX8BHLZ.uasset",
+				"D:/MonDossier/GUILLOIS_Nicolas_JV2_Platerformer/GUI_NIC_Plat/Content/__ExternalActors__/Level/Lvl_ThirdPerson/0/ZF/BGNDAA5Y5JFVZEP8KF4IXO.uasset",
+				"D:/MonDossier/GUILLOIS_Nicolas_JV2_Platerformer/GUI_NIC_Plat/Content/__ExternalActors__/Level/Lvl_ThirdPerson/6/TZ/JQP56YREBSB6HHJGJ38O7G.uasset",
+				"D:/MonDossier/GUILLOIS_Nicolas_JV2_Platerformer/GUI_NIC_Plat/Content/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"D:/MonDossier/GUILLOIS_Nicolas_JV2_Platerformer/GUI_NIC_Plat/Content/Trash/BP_Bump.uasset",
 				"D:/MonDossier/GUI_NIC_Plat/Content/Textures/T_GridChecker_A.uasset",
 				"D:/MonDossier/GUI_NIC_Plat/Content/LevelPrototyping/Interactable/Target/Assets/SM_TargetBaseMesh.uasset",
 				"D:/MonDossier/GUI_NIC_Plat/Content/LevelPrototyping/Interactable/Door/Assets/Meshes/SM_DoorFrame_Edge.uasset",
